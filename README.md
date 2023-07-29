@@ -1,4 +1,4 @@
-### Hi there, I'm Lorenzo Zardo! 👋
+### Hi there, I'm Lorenzo! 👋
 <hr>
 
 <div align="center">
