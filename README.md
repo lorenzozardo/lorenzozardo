@@ -2,10 +2,10 @@
 
 <hr>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lorenzozardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzozardo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzozardo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzozardo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzozardo&layout=compact&theme=great-gatsby"/>
 </div>
 
 ### Skills 💻
